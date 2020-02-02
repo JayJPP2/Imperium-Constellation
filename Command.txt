@@ -1,0 +1,15 @@
+In the editor :
+- Mouse button 3 or alt + Mouse button === rotate in th editor
+- Arrow Key === navigation through all editor's menus
+
+In the game :
+- ZQSD === Navigate the ship
+- Thrust up === Space
+- Brake === C
+- Mouse button 0 === Fire with weapon of type machineGun / Special Weapon (only for tier 2)
+- Mouse button 1 === Fire with weapon of type missile / torpedo (only for tier 2)
+- Tab === Switch between fire mode missile and fire mode torpedo (weapon mode only for tier 2)
+- Ctrl === Switch between fire mode weapon mode machineGun or mode Speciale Weapon (weapon mode only for tier 2)
+- Shift + Z or S === Do a rapid 180° Turn (only for tier 1)
+- Shift + Q or D === Do a spin (only for tier 1)
+- P === Open Pause Menu
