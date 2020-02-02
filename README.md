@@ -44,8 +44,6 @@ This game was created by the following artists and programmers:
 
 ![Pictures](https://raw.githubusercontent.com/JeromeVaglienti/Imperium-Constellation/master/PreviewPictures/5.png)
 
-![Pictures](https://raw.githubusercontent.com/JeromeVaglienti/Imperium-Constellation/master/PreviewPictures/6.png)
-
 ![Pictures](https://raw.githubusercontent.com/JeromeVaglienti/Imperium-Constellation/master/PreviewPictures/7.png)
 
 ![Pictures](https://raw.githubusercontent.com/JeromeVaglienti/Imperium-Constellation/master/PreviewPictures/8.png)
