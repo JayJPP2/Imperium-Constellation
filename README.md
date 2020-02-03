@@ -23,10 +23,10 @@ This game was created by the following artists and programmers:
 * Nicolas Houllier https://tanuiko.artstation.com/
 * Ingrid Munoz https://elydja.artstation.com/
 * Atef Oueldi https://shinjoku.artstation.com/
-<br/>
+</br>
 
 * Charlie Adzuar
-* David Drouin
+* David Drouin https://github.com/DavidDrouin
 * Jérôme Vaglienti https://github.com/JeromeVaglienti
 
 ### Trailer
